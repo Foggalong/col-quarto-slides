@@ -1,6 +1,6 @@
 # COL Quarto Slides
 
-Template for using [Quarto](https://quarto.org/) to create 'accessible by default' presentations that involve maths or code. The default applies [Centre for Open Learning](https://col.ed.ac.uk/) branding.
+Template for using [Quarto](https://quarto.org/) to create 'accessible by default' presentations that involve maths or code. The default applies [Centre for Open Learning](https://col.ed.ac.uk/) branding and can be previewed through [GitHub pages](https://foggalong.github.io/col-quarto-slides).
 
 ## Rendering Outputs
 
