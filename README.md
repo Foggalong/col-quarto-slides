@@ -1,0 +1,1 @@
+This branch just hosts the HTML for the [GitHub pages demo](https://foggalong.github.io/col-quarto-slides/). For the actual template source, checkout the [main](https://github.com/Foggalong/col-quarto-slides) branch.
