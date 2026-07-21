@@ -8,4 +8,6 @@ callout-icon: false
 title-slide-attributes:
   data-background-color: "#041E42"
   data-color: "#d6d6d6"
+embed-resources: true
 logo: col-logo.png
+logo-alt: ""  # marks the logo as decorative to screenreaders
